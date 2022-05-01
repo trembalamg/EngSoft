@@ -1,4 +1,4 @@
-package teste;
+package testaforma;
 
 public class Teste {
 
